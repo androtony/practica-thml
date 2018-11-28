@@ -1,0 +1,109 @@
+
+html body{ height:100%; margin:0;}
+.nav{
+    text-align:right;
+}
+.opciones{
+    width: 20px;
+    height: 20px;
+
+}
+.nav{
+    top:0px;
+    margin: 0px;
+}
+.nav li{
+    margin: 0px;
+    display: inline-block;
+
+}
+.button{
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: blue;
+}
+.imagen{
+    width: 300px;
+    height: 180px;
+    display:block;
+    margin: 0 auto;
+}
+.busqueda{
+    width: 580px;
+    height: 40px;
+    display:block;
+    margin: 0 auto;
+    border: 1px solid #cccccc;
+    box-shadow:1px 2px #cccccc;
+    border-radius: 3px;
+}
+.botones{
+    background-origin:#f3f3f3;
+    color:#757575;
+    text-align:center;
+    margin-left: -35px;
+}
+.botones li{
+    display:inline-block;
+}
+.boton1{
+
+    width: 50;
+    height: 38px;
+    border-width: 0px;
+    padding: 0px 20px 0px 20px;
+
+}
+.boton2{
+    width: 50;
+    height: 38px;
+    margin-left: 10px;
+    border-width: 0px;
+    padding: 0px 20px 0px 20px;
+
+}
+.idioma{
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    bottom: 0;
+
+}
+.footer1{
+    background-color:#f2f2f2;
+    color:#717171;
+    bottom:0px;
+}
+.footer1{
+    position:fixed;
+}
+/*
+.footer3{
+    background-color:#f2f2f2;
+    color:#717171;
+    position:fixed;
+    right: 0;
+    bottom:0;
+    z-index: 10;
+    margin-bottom: 0px;
+    padding: 0px 20px 0px 20px;*/
+}
+
+.footer2{
+
+}
+.tabla li {
+    margin: 0px;
+    display:inline-block;
+    background-color:#f2f2f2;
+    color:#717171;
+
+
+
+
+
+
+
+
+}
